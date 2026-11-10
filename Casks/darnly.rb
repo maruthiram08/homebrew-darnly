@@ -1,7 +1,7 @@
 cask "darnly" do
-  version "0.3.2"
-  sha256 "018c1fa23ccf18f6b965c5e942a5219e3acd53819484b9ca16dc44f4978e5bf8"
-
+  version "0.3.3"
+  sha256 "51a5b5804accae8211f712e35fe89cf0ccda29ecbf8546dc873946525e65bd15"
+  
   url "https://github.com/maruthiram08/darnly.dev/releases/download/mac-v#{version}/Darnly.dmg"
   name "Darnly"
   desc "Capture a bug on screen and hand it to your AI coding agent"
